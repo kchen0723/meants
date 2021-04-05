@@ -1,0 +1,2 @@
+# meants
+mean in typescript
